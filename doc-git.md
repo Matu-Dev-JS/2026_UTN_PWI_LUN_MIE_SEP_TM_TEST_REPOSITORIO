@@ -1,0 +1,24 @@
+
+
+## Para inicializar un repositorio en GIT:
+
+git init
+
+## Para dar seguimiento a un archivo con GIT
+
+Cuando incializamos un repo los archivos inicialmente estan en estado "Untracked" / Sin seguimiento
+
+git add index.html (Esto le da seguimiento al archivo index.html)
+o
+git add . (esto le da seguimiento a todos los archivos de tu directorio root (raiz))
+
+## Para exceptuar o NO dar seguimiento archivos:
+
+O pueden ingnorar archivos creando en la raiz el archivo .gitignore
+
+
+## Versionar
+
+Para versionar el codigo debe estar añadido, el codigo que se versiona es el que esta añadido hasta el momento
+
+git commit -m "Primera version en GIT" (Crea una version en tu repositorio)
