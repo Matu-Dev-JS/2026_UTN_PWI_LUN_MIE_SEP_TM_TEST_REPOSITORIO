@@ -32,3 +32,10 @@ git remote add origin https://github.com/Matu-Dev-JS/2026_UTN_PWI_LUN_MIE_SEP_TM
 
 ## Enviar el codigo a la direccion remota
 git push -u origin main
+
+
+## Como subir cambios a github?
+
+git add .
+git commit -m 'descripcion'
+git push
