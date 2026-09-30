@@ -57,3 +57,6 @@ git push -u origin <nombre-rama>
 ## Si ya existe
 
 git push
+
+
+## Para combinar ramas usamos git merge
